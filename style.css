@@ -179,7 +179,7 @@ header>nav>a{
 header>nav>a:hover{
     background-color: var(--cor2);
     color: var(--cor4);
-    padding: 10px 18px 12px 18px;
+    padding: 10px 18px 10px 18px;
     border-radius: 5px;
     margin: 0px;
     transition-duration: 0.5s;
