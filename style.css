@@ -196,7 +196,7 @@ main>h1{
 .video{
     background-color: var(--cor5);
     margin: 0px -15px 30px -20px;
-    padding: 18px;
+    padding: 18px 14px 18px 18px;
     padding-bottom: 58%;
     position: relative;
 }
