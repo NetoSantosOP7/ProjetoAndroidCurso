@@ -193,10 +193,6 @@ main>h1{
     font-size: 1.8rem;
 }
 
-main p{
-    font-weight: bold;
-}
-
 .video{
     background-color: var(--cor5);
     margin: 0px -15px 30px -20px;
